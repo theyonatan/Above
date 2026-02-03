@@ -1,0 +1,69 @@
+--- !u!1 &1976021097
+GameObject:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1976021099}
+  - component: {fileID: 1976021098}
+  m_Layer: 0
+  m_Name: Prefab Indexer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1976021098
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976021097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05a7c62fccbafd342991629222351294, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PlaymodeSaver::Framework.Utils.UnityPlayModeSaverSceneUtils
+  _scenePrefabInstances:
+  - _gameObject: {fileID: 1026176200}
+    _prefab: Assets/Game/Islands/Island.fbx
+  - _gameObject: {fileID: 1234465575}
+    _prefab: Assets/GameSystems/Player/player.prefab
+  - _gameObject: {fileID: 1653088274}
+    _prefab: Assets/GameSystems/Player/Main Camera.prefab
+  - _gameObject: {fileID: 860329337}
+    _prefab: Assets/Game/Islands/volcanoIsland.blend
+  - _gameObject: {fileID: 1351749172}
+    _prefab: Assets/assetStore/Third Party/FantasyForest/Prefabs/Ruins/Bridge_03.prefab
+  - _gameObject: {fileID: 1678849947}
+    _prefab: Assets/Game/Islands/BigIsland.fbx
+  - _gameObject: {fileID: 571900160}
+    _prefab: Assets/Game/Islands/Island.fbx
+  - _gameObject: {fileID: 869414309}
+    _prefab: Assets/Game/Islands/Island.fbx
+  - _gameObject: {fileID: 565696161}
+    _prefab: Assets/Game/Islands/Island.fbx
+  - _gameObject: {fileID: 2142631093}
+    _prefab: Assets/Game/Islands/Island.fbx
+  - _gameObject: {fileID: 1779458762}
+    _prefab: Assets/Game/Islands/Island.fbx
+  - _gameObject: {fileID: 49418418}
+    _prefab: Assets/Game/Islands/Island.fbx
+--- !u!4 &1976021099
+Transform:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976021097}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -102,3 +102,13 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Assets/Digger
+Assets/assetStore
+Assets/DiggerData
+Assets/AssetInventory
+Assets/Plugins
+Assets/AssetInventory.meta
+Assets/Digger.meta
+Assets/DiggerData.meta
+Assets/Plugins.meta
+Assets/assetStore
