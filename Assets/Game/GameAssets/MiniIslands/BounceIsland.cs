@@ -8,7 +8,6 @@ public class BounceIsland : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Bounce Island");
         if (_timeout) return;
         if (!other.CompareTag("Player")) return;
         if (feedbackPlayer.IsPlaying) return;
