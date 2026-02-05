@@ -40,18 +40,12 @@ MonoBehaviour:
     _prefab: Assets/assetStore/Third Party/FantasyForest/Prefabs/Ruins/Bridge_03.prefab
   - _gameObject: {fileID: 1678849947}
     _prefab: Assets/Game/Islands/BigIsland.fbx
-  - _gameObject: {fileID: 571900160}
-    _prefab: Assets/Game/Islands/Island.fbx
-  - _gameObject: {fileID: 869414309}
-    _prefab: Assets/Game/Islands/Island.fbx
-  - _gameObject: {fileID: 565696161}
-    _prefab: Assets/Game/Islands/Island.fbx
-  - _gameObject: {fileID: 2142631093}
-    _prefab: Assets/Game/Islands/Island.fbx
-  - _gameObject: {fileID: 1779458762}
-    _prefab: Assets/Game/Islands/Island.fbx
-  - _gameObject: {fileID: 49418418}
-    _prefab: Assets/Game/Islands/Island.fbx
+  - _gameObject: {fileID: 919132148291941958}
+    _prefab: Assets/Game/GameAssets/MiniIslands/MiniIsland.prefab
+  - _gameObject: {fileID: 2105363561}
+    _prefab: Assets/Game/GameAssets/MiniIslands/MiniIsland.prefab
+  - _gameObject: {fileID: 3604759}
+    _prefab: Assets/Game/GameAssets/MiniIslands/MiniIsland.prefab
 --- !u!4 &1976021099
 Transform:
   m_ObjectHideFlags: 11
