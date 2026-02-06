@@ -28,14 +28,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: PlaymodeSaver::Framework.Utils.UnityPlayModeSaverSceneUtils
   _scenePrefabInstances:
-  - _gameObject: {fileID: 1026176200}
-    _prefab: Assets/Game/Islands/Island.fbx
   - _gameObject: {fileID: 1234465575}
     _prefab: Assets/GameSystems/Player/player.prefab
   - _gameObject: {fileID: 1653088274}
     _prefab: Assets/GameSystems/Player/Main Camera.prefab
-  - _gameObject: {fileID: 860329337}
-    _prefab: Assets/Game/Islands/volcanoIsland.blend
   - _gameObject: {fileID: 1351749172}
     _prefab: Assets/assetStore/Third Party/FantasyForest/Prefabs/Ruins/Bridge_03.prefab
   - _gameObject: {fileID: 1678849947}
@@ -46,6 +42,8 @@ MonoBehaviour:
     _prefab: Assets/Game/GameAssets/MiniIslands/MiniIsland.prefab
   - _gameObject: {fileID: 3604759}
     _prefab: Assets/Game/GameAssets/MiniIslands/MiniIsland.prefab
+  - _gameObject: {fileID: 1127299221}
+    _prefab: Assets/Game/Islands/VolcanoIsland.fbx
 --- !u!4 &1976021099
 Transform:
   m_ObjectHideFlags: 11
